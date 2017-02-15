@@ -1,3 +1,5 @@
+Clone this repository under the Components folder.
+
 
 # JSONWebTokens.cfc - A ColdFusion Gateway For JSON Web Tokens
 
